@@ -1,5 +1,5 @@
 # cse210-ww-student-template
-My name is Zijie Zhao
+My name is Zijie Zhao, I come from China.
 
 This repository contains the starter code for many different projects. They are arranged as follows:
 
